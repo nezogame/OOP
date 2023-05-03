@@ -1,0 +1,20 @@
+﻿  5Lab4SemC++(OOP).cpp
+  Circle.cpp
+  Controller.cpp
+c:\users\denyss\2_course\oop\5lab4semc++(oop)\5lab4semc++(oop)\controller.cpp(39): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\denyss\2_course\oop\5lab4semc++(oop)\5lab4semc++(oop)\controller.cpp(99): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\denyss\2_course\oop\5lab4semc++(oop)\5lab4semc++(oop)\controller.cpp(105): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\denyss\2_course\oop\5lab4semc++(oop)\5lab4semc++(oop)\controller.cpp(196): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Figure.cpp
+  FigureDecorator.cpp
+  InternalColorDecorator.cpp
+  OutlineColorDecorator.cpp
+  RotateDecorator.cpp
+  Square.cpp
+c:\users\denyss\2_course\oop\5lab4semc++(oop)\5lab4semc++(oop)\square.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  5Lab4SemC++(OOP).vcxproj -> C:\Users\denyss\2_Course\OOP\5Lab4SemC++(OOP)\x64\Debug\5Lab4SemC++(OOP).exe

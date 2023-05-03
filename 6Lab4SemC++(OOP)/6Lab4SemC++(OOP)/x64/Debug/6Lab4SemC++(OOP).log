@@ -1,0 +1,8 @@
+﻿  6Lab4SemC++(OOP).cpp
+C:\Users\denyss\2_Course\OOP\6Lab4SemC++(OOP)\6Lab4SemC++(OOP)\Container.cpp(97,4): warning C4101: 'element': unreferenced local variable
+C:\Users\denyss\2_Course\OOP\6Lab4SemC++(OOP)\6Lab4SemC++(OOP)\Container.cpp(95): message : while compiling class template member function 'bool Container<int>::console_interface(void)'
+C:\Users\denyss\2_Course\OOP\6Lab4SemC++(OOP)\6Lab4SemC++(OOP)\6Lab4SemC++(OOP).cpp(23): message : see reference to function template instantiation 'bool Container<int>::console_interface(void)' being compiled
+C:\Users\denyss\2_Course\OOP\6Lab4SemC++(OOP)\6Lab4SemC++(OOP)\6Lab4SemC++(OOP).cpp(20): message : see reference to class template instantiation 'Container<int>' being compiled
+  Container.cpp
+  Generating Code...
+  6Lab4SemC++(OOP).vcxproj -> C:\Users\denyss\2_Course\OOP\6Lab4SemC++(OOP)\x64\Debug\6Lab4SemC++(OOP).exe

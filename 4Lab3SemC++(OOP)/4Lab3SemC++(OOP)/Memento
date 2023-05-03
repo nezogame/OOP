@@ -1,0 +1,58 @@
+is_figure: 1
+is_composite: 0
+bad_tt: 0
+Figure: star
+Figure color: 1229268735
+Figure scale: 1 1
+Figure position: 152.789 342.576
+
+Figure: star
+Figure color: 1229268735
+Figure scale: 1 1
+Figure position: 323.789 304.576
+
+Figure: composite
+Figure inside: square
+Figure color: 1344706559
+Figure width and height: 100 100
+Figure scale: 1 1
+Figure position: 141 171
+
+Figure inside: line
+Figure color: 1308669183
+Figure width and height: 150 5
+Figure scale: 1 1
+Figure position: 115 225.5
+
+Figure: composite
+Figure inside: square
+Figure color: 1344706559
+Figure width and height: 100 100
+Figure scale: 1 1
+Figure position: 519 268
+
+Figure: composite
+Figure inside: star
+Figure color: 1229268735
+Figure width and height: 100 100
+Figure scale: 1 1
+Figure position: 369.5 107.497
+
+Figure inside: star
+Figure color: 1229268735
+Figure width and height: 100 100
+Figure scale: 1 1
+Figure position: 407.5 64.4968
+
+Figure inside: star
+Figure color: 1229268735
+Figure width and height: 100 100
+Figure scale: 1 1
+Figure position: 472.5 86.4969
+
+Figure inside: star
+Figure color: 1229268735
+Figure width and height: 100 100
+Figure scale: 1 1
+Figure position: 510.5 43.4968
+
