@@ -1,5 +1,0 @@
-﻿  2Lab3SemC++(OOP)2.cpp
-  Rational.cpp
-  Generating Code...
-C:\Users\denyss\source\repos\2Lab3SemC++(OOP)2\2Lab3SemC++(OOP)2\Rational.cpp(45): warning C4715: 'Rational::operator[]': not all control paths return a value
-  2Lab3SemC++(OOP)2.vcxproj -> C:\Users\denyss\source\repos\2Lab3SemC++(OOP)2\Debug\2Lab3SemC++(OOP)2.exe
